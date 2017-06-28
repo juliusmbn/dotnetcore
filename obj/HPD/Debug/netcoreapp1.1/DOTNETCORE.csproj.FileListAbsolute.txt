@@ -1,0 +1,8 @@
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\bin\HPD\Debug\netcoreapp1.1\DOTNETCORE.deps.json
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\bin\HPD\Debug\netcoreapp1.1\DOTNETCORE.runtimeconfig.json
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\bin\HPD\Debug\netcoreapp1.1\DOTNETCORE.runtimeconfig.dev.json
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\bin\HPD\Debug\netcoreapp1.1\DOTNETCORE.dll
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\bin\HPD\Debug\netcoreapp1.1\DOTNETCORE.pdb
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\obj\HPD\Debug\netcoreapp1.1\DOTNETCORE.AssemblyInfo.cs
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\obj\HPD\Debug\netcoreapp1.1\DOTNETCORE.dll
+C:\MBN\ANGULAR\Angular4\DOTNETCORE\obj\HPD\Debug\netcoreapp1.1\DOTNETCORE.pdb
